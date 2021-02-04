@@ -1,4 +1,4 @@
-import faker from 'faker'; //npm module
+import faker from 'faker'; //npm module generates fake details
 
 export class Company {
   companyName: string;
